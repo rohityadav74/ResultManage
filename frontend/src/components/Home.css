@@ -1,0 +1,34 @@
+/* .home {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80vh;
+  }
+  
+  .home-image {
+    width: 90%;
+    height: 90%;
+    border-radius: 10px;
+  }
+   */
+
+   .heading {
+    text-align: center;
+    font-size: 2.5rem;
+    font-weight: bold;
+    margin-top: 20px;
+    color: #333;
+  }
+  
+  .home-image {
+    display: flex;
+    justify-content: center;
+    margin: 20px 0;
+  }
+  
+  .home-image img {
+    max-width: 80%;
+    height: auto;
+    border-radius: 8px;
+  }
+  
